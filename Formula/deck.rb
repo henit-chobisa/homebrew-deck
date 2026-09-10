@@ -7,7 +7,7 @@
 class Deck < Formula
   desc "Your agent points at code. You walk it, comment, submit"
   homepage "https://github.com/henit-chobisa/deck"
-  url "https://github.com/henit-chobisa/deck.git", tag: "v0.0.5"
+  url "https://github.com/henit-chobisa/deck.git", tag: "v0.0.6"
   license "Apache-2.0"
   head "https://github.com/henit-chobisa/deck.git", branch: "main"
 
